@@ -1,0 +1,33 @@
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\concrt140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\cvextern.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\msvcp140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\msvcp140_1.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\msvcp140_2.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\vcruntime140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\concrt140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\cvextern.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\msvcp140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\msvcp140_1.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\msvcp140_2.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\x86\vcruntime140.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\IP GUI Project.exe.config
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\IP GUI Project.exe
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\IP GUI Project.pdb
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\System.Drawing.Common.dll
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP GUI Project.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP_GUI_Project.Form1.resources
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP_GUI_Project.Properties.Resources.resources
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP GUI Project.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP GUI Project.csproj.CopyComplete
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP GUI Project.exe
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\obj\Debug\IP GUI Project.pdb
+C:\Users\Dell\source\repos\IP GUI Project\IP GUI Project\bin\Debug\Bunifu_UI_v1.5.3.dll
